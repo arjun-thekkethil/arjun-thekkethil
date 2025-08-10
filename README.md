@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **the ethical considerations of using generative AI by Microsoft**
 
-- 📫 How to reach me **arjun.tlops@gmail.com**
+- 📫 How to reach me **arjun.thekkethil11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
