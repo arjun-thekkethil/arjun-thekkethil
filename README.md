@@ -21,14 +21,6 @@
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://arjun-thekkethil.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/arjun-thekkethil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://papers.ssrn.com/" target="_blank"><img src="https://img.shields.io/badge/SSRN-1a0dab?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
-</p>
-
----
 
 ### 🛠️ Tools & Technologies I Use:
 <p align="left">
