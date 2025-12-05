@@ -22,7 +22,7 @@
 ### 🛠️ Tools & Technologies I Use:
 <p align="left">
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a><img src="https://raw.githubusercontent.com/ffmpeg/ffmpeg/master/doc/ffmpeg-logo.png" width="40" alt="FFmpeg"/></a>
+  <a><img src="https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white&style=for-the-badge" /></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a>
   <a><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a>
