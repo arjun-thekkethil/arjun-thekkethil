@@ -17,10 +17,8 @@
   **“Circular Economy Integration in AI-Enhanced Smart Grids for Carbon Footprint Optimization:  
   A Sustainable Resource Management Framework”** — Published on SSRN
 - 🌱 Exploring **responsible and ethical use of AI**
-- 📫 Reach me at **arjun.thekkethil11@gmail.com**
 
 ---
-
 
 ### 🛠️ Tools & Technologies I Use:
 <p align="left">
@@ -29,8 +27,6 @@
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a>
   <a><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
 </p>
 
 ---
