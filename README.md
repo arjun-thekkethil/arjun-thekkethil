@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">Video Engineering Intern | FOX Corporation</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=arjun-thekkethil&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-thekkethil" />
