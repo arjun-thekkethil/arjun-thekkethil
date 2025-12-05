@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)](https://arjun-thekkethil.io)
+<img width="100%" alt="FOX Banner" src="https://github.com/user-attachments/assets/919d0c0f-618f-4aba-94ec-1a12b89f4102" />
 
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">Video Engineering Intern | FOX Corporation</h3>
@@ -41,4 +41,3 @@
 - Circular economy principles applied to intelligent systems  
 
 ---
-
